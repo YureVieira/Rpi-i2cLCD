@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QMainWindow" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>782</width>
+    <height>249</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>782</width>
+    <height>249</height>
+   </size>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>782</width>
+    <height>249</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QGroupBox" name="groupBox">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>761</width>
+      <height>151</height>
+     </rect>
+    </property>
+    <property name="title">
+     <string>Bits</string>
+    </property>
+    <widget class="QCheckBox" name="bit_7">
+     <property name="geometry">
+      <rect>
+       <x>30</x>
+       <y>70</y>
+       <width>94</width>
+       <height>27</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>bit_7</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="bit_6">
+     <property name="geometry">
+      <rect>
+       <x>120</x>
+       <y>70</y>
+       <width>94</width>
+       <height>27</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>bit_6</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="bit_5">
+     <property name="geometry">
+      <rect>
+       <x>210</x>
+       <y>70</y>
+       <width>94</width>
+       <height>27</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>bit_5</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="bit_4">
+     <property name="geometry">
+      <rect>
+       <x>300</x>
+       <y>70</y>
+       <width>94</width>
+       <height>27</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>bit_4</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="bit_3">
+     <property name="geometry">
+      <rect>
+       <x>390</x>
+       <y>70</y>
+       <width>94</width>
+       <height>27</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>bit_3</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="bit_2">
+     <property name="geometry">
+      <rect>
+       <x>480</x>
+       <y>70</y>
+       <width>94</width>
+       <height>27</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>bit_2</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="bit_1">
+     <property name="geometry">
+      <rect>
+       <x>570</x>
+       <y>70</y>
+       <width>94</width>
+       <height>27</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>bit_1</string>
+     </property>
+    </widget>
+    <widget class="QCheckBox" name="bit_0">
+     <property name="geometry">
+      <rect>
+       <x>660</x>
+       <y>70</y>
+       <width>94</width>
+       <height>27</height>
+      </rect>
+     </property>
+     <property name="text">
+      <string>bit_0</string>
+     </property>
+    </widget>
+   </widget>
+  </widget>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
